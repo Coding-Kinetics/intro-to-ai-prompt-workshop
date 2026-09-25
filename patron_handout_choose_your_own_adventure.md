@@ -3,9 +3,9 @@
 
 ---
 
-## Part 1: Safe Prompting Rules
+## Part 1: Safe & Mindful AI Rules
 
-### The "Kitchen Table" Test
+### The "Kitchen Table" Privacy Test
 > **If you wouldn't leave a paper with this information on a public library table while grabbing a coffee, DO NOT paste it into an AI tool.**
 
 - 🛑 **NEVER Share:** Social Security numbers, bank details, passwords, home addresses, or private medical details.
@@ -13,6 +13,14 @@
   *Instead of:* "Email Carlos Ramos at 773-555-0144 about his unpaid snow removal bill."  
   *Use:* "Email **[Client Name]** at **[Phone Number]** about an overdue invoice for **[Service]**."
 - 🟢 **Always Verify:** AI is a creative writing assistant, not a legal or medical database. Double-check bus routes, dates, and phone numbers yourself.
+
+### 🌱 Green Prompting: Caring for the Digital Footprint
+Every AI query uses computing power, electricity, and cooling water at data centers. Being a responsible digital citizen is easy with a few mindful habits:
+
+1. **Stick to Text Over Media:** Text generation uses a tiny fraction of the electricity required for image or video generators. Avoid "novelty" image prompts (like making a cartoon animal) if you only need clear words or an outline.
+2. **Measure Twice, Prompt Once:** A clear, detailed prompt with your constraints on turn one cuts down on 4 or 5 back-and-forth "guessing" queries.
+3. **Save and Reuse (Don't Re-Prompt):** Save your output directly to GitHub or your computer so you don't have to ask the AI to re-generate the same text next week.
+4. **Choose Lightweight/Standard Models:** For drafting, checklists, or proofreading, standard or "mini/flash" models do the job with significantly lower energy draw.
 
 ---
 
@@ -106,3 +114,10 @@ Never stop at the first AI response! Enter one of these follow-ups before you sa
 - **To shorten:** *"Make this 30% shorter and sound more natural and conversational."*
 - **To review:** *"What is one important piece of information or risk I forgot to consider in this draft?"*
 - **To reformat:** *"Convert this section into a clear bulleted checklist."*
+
+---
+
+## 🌱 Green Prompting Quick Checklist
+- [ ] Did I give enough detail in Prompt #1 to avoid multiple back-and-forth retries?
+- [ ] Am I using efficient text prompts rather than heavy image/video generators?
+- [ ] Did I save this output to my GitHub README so I don't need to re-run it next week?
