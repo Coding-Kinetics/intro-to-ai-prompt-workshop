@@ -1,5 +1,5 @@
-# Publishing Your Work to GitHub (No Coding Required)
-*Save your AI creations to a permanent, free online link you can open on any phone, tablet, or computer.*
+# Publishing Your Work to GitHub
+*No coding required. Save your AI creations to a permanent, free online link you can open on any phone, tablet, or computer.*
 
 ---
 
