@@ -5,7 +5,7 @@
 
 ## Part 1: Safe & Mindful AI Rules
 
-### The "Kitchen Table" Privacy Test
+### AI Data Safety Rules
 > **If you wouldn't leave a paper with this information on a public library table while grabbing a coffee, DO NOT paste it into an AI tool.**
 
 - 🛑 **NEVER Share:** Social Security numbers, bank details, passwords, home addresses, or private medical details.
