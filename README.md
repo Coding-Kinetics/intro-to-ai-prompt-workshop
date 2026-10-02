@@ -8,7 +8,7 @@ Welcome to the repository for the **AI & Practical Tools Workshop**, part of the
 
 If you are participating in the workshop or leading a session, get started right away by heading directly to the core interactive guide:
 
-👉 **[Patron Handout: Choose Your Own Adventure](https://www.google.com/search?q=patron_handout_choose_your_own_adventure.md)**
+👉 **[Patron Handout: Choose Your Own Adventure](https://github.com/Coding-Kinetics/intro-to-ai-prompt-workshop/blob/main/patron_handout_choose_your_own_adventure.md)**
 
 This handout contains all the safe prompting rules, privacy guidelines, and interactive scenario tracks you need for the session.
 
